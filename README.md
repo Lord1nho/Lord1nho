@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-Como estudante do 6º período de <strong>Sistemas de Informação</strong> na UFS, minha paixão pela tecnologia tem crescido a cada dia, moldando meu caminho e me inspirando a explorar novos horizontes. 
+Como estudante do 7º período de <strong>Sistemas de Informação</strong> na UFS, minha paixão pela tecnologia tem crescido a cada dia, moldando meu caminho e me inspirando a explorar novos horizontes. 
 
 Dito isso, aqui está um resumo de tudo que fiz e faço hoje, dentre eles as minhas competências/tecnologias que estou aprendendo, como também alguns interesses e alguns projetos que já participei durante a faculdade.
 

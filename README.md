@@ -28,15 +28,17 @@ Dito isso, aqui está um resumo de tudo que fiz e faço hoje, dentre eles as min
 
 <ul>
     <li>Junior/Trainee</li>
-    <li>Front-end Development</li>
-    <li>Gerência de Projetos</li>
+    <li>Front-end</li>
+    <li>Full Stack</li>
     <li>Teste de Software</li>
 </ul>
 
 
 ## Principais projetos que trabalhei
 
-- [Módulo Consulta de Códigos (Front-end) - My Health](https://github.com/Lord1nho/my-health-app)
+- [DojOSS! Sistema de Gestão para academias de artes marciais]([https://github.com/Lord1nho/my-health-app](https://github.com/DCOMP-UFS/praticas.DojOSS_front))
+
+- [Glicemilton - Uma aplicação Gamificada para o controle e autogestão de diabetes]
 
 - [Portal de Saúde Relacionado a Síndrome Respiratória (Front-end)](https://github.com/Lord1nho/portalweb-SRAG)
 

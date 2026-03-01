@@ -38,7 +38,7 @@ Dito isso, aqui está um resumo de tudo que fiz e faço hoje, dentre eles as min
 
 - [DojOSS! Sistema de Gestão para academias de artes marciais]([https://github.com/Lord1nho/my-health-app](https://github.com/DCOMP-UFS/praticas.DojOSS_front))
 
-- [Glicemilton - Uma aplicação Gamificada para o controle e autogestão de diabetes]
+- Glicemilton - Uma aplicação Gamificada para o controle e autogestão de diabetes
 
 - [Portal de Saúde Relacionado a Síndrome Respiratória (Front-end)](https://github.com/Lord1nho/portalweb-SRAG)
 

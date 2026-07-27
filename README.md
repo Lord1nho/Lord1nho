@@ -7,7 +7,7 @@
 
 ## Sobre Mim
 
-Formado em <strong>Sistemas de Informação</strong> pela UFS, minha paixão pela tecnologia tem crescido a cada dia, moldando meu caminho e me inspirando a explorar novos horizontes.
+Formado em <strong>Sistemas de Informação</strong> pela UFS, com atuação em desenvolvimento de software e experiência em ambientes corporativos.
 
 Desenvolvedor front-end e fullstack, atuando com React, React Native, Next.js e integração com APIs. Tenho experiência com aplicações web e mobile, APIs REST e bancos de dados relacionais, sempre buscando boas práticas de Engenharia de Software e metodologias ágeis.
 

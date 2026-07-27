@@ -3,8 +3,6 @@
 **Junior Frontend Engineer** | Web Apps, UX Performance & Design Systems
 `React` · `TypeScript` · `Next.js` · `JavaScript` · `CSS` · `Performance`
 
-⬇️Esse é um resumo de tudo que existe no meu github⬇️
-
 ## Sobre Mim
 
 Formado em <strong>Sistemas de Informação</strong> pela UFS, com atuação em desenvolvimento de software e experiência em ambientes corporativos.

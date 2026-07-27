@@ -1,59 +1,85 @@
 ## Olá, meu nome é Luiz Fernando! 😊
 
+**Junior Frontend Engineer** | Web Apps, UX Performance & Design Systems
+`React` · `TypeScript` · `Next.js` · `JavaScript` · `CSS` · `Performance`
+
 ⬇️Esse é um resumo de tudo que existe no meu github⬇️
 
 ## Sobre Mim
 
-Como estudante do 9º período de <strong>Sistemas de Informação</strong> na UFS, minha paixão pela tecnologia tem crescido a cada dia, moldando meu caminho e me inspirando a explorar novos horizontes. 
+Formado em <strong>Sistemas de Informação</strong> pela UFS, minha paixão pela tecnologia tem crescido a cada dia, moldando meu caminho e me inspirando a explorar novos horizontes.
 
-Dito isso, aqui está um resumo de tudo que fiz e faço hoje, dentre eles as minhas competências/tecnologias que estou aprendendo, como também alguns interesses e alguns projetos que já participei durante a faculdade.
+Desenvolvedor front-end e fullstack, atuando com React, React Native, Next.js e integração com APIs. Tenho experiência com aplicações web e mobile, APIs REST e bancos de dados relacionais, sempre buscando boas práticas de Engenharia de Software e metodologias ágeis.
 
-## Competências
+Busco desenvolver soluções escaláveis, explorando tecnologias de Inteligência Artificial, automação de processos e análise de dados para criar aplicações mais inteligentes e eficientes.
 
-<div styles= "display: inline-block">
+## 💻 Experiência
 
-<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src = "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-<img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src = "https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
-<img src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+- **Analista de Sistemas** - Hospital Renascença · Júnior · `2025 - Atualmente`
+- **Desenvolvedor** - The Human Project · Estágio · `2024 - 2025`
+- **Suporte de Infraestrutura** - Hospital Renascença · Estágio · `2024 - 2025`
+- **Técnico de Suporte** - Netiz · Júnior · `2023 - 2024`
+- **Suporte Técnico** - Corregedoria Geral do Sistema Prisional (COGESESP) · Estágio · `2022 - 2023`
 
-</div>
+## 🎓 Formação
+
+- **Bacharelado em Sistemas de Informação** - UFS · `Out 2020 - Abr 2026` ✅ Concluído
+- **Ensino Médio + Técnico em Eletrônica** - IFS · `2015 - 2019`
+
+## 🚀 Tecnologias
+
+### Linguagens
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,python,c" alt="Linguagens" />
+
+### Frameworks e bibliotecas
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,express,jest" alt="Frameworks e bibliotecas" />
+
+### Database/Cloud
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,aws" alt="Database e Cloud" />
+
+### Ferramentas & IA
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Ferramentas" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge"/>
 
 ## Areas de Interesse
 
 <ul>
-    <li>Junior/Trainee</li>
     <li>Front-end</li>
     <li>Full Stack</li>
-    <li>Teste de Software</li>
+    <li>Engenharia de Software</li>
+    <li>Automação</li>
 </ul>
 
 
-## Principais projetos que trabalhei
+## 🚀 Melhores projetos
 
-- [DojOSS! Sistema de Gestão para academias de artes marciais]([https://github.com/Lord1nho/my-health-app](https://github.com/DCOMP-UFS/praticas.DojOSS_front))
+Alguns dos projetos que mais me orgulho de ter desenvolvido (alguns são privados, por isso sem link):
 
-- Glicemilton - Uma aplicação Gamificada para o controle e autogestão de diabetes
+- **DojOSS** - Sistema de gestão para academias de artes marciais, com controle de alunos, mensalidades e frequência.
+- **Glicemilton** - Aplicação gamificada para controle e autogestão de diabetes.
+- **LetterboxUFC** - Plataforma para avaliar, comentar e criar listas sobre lutas de UFC, inspirada no Letterboxd.
+- **Desafio Meteorologia** - Consumo de dados climáticos com tratamento e visualização de previsões meteorológicas.
+- **Integrações para pesquisas de satisfação** - Automação em Python (requests + SQLite) para coletar respostas de pesquisas de satisfação e armazenar os dados. Mais de 800 envios em 15 dias, +200% na taxa de resposta.
+- **Painéis interativos** - Dashboards desktop em Python para monitoramento de contas e fluxo assistencial, com exportação de relatórios em PDF.
 
-- [Portal de Saúde Relacionado a Síndrome Respiratória (Front-end)](https://github.com/Lord1nho/portalweb-SRAG)
+## Idiomas
 
-- [Crud de uma loja de Games(BackEnd apenas)](https://github.com/Lord1nho/estudoTecnologiajs)
-
-- [Testes unitários e de integração em uma extensão da Gamersclub](https://github.com/Lord1nho/gamersclub-booster-testeSoftware)
-
+<ul>
+    <li>Português - Fluente</li>
+    <li>Inglês - Nível B2</li>
+</ul>
 
 ## Contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/luiz-fernando-b64245246/)</br>
+)](https://www.linkedin.com/in/luiz-vieira-dev/)</br>
 E-mail: luizfernandosv85@gmail.com
 
 
 ## Stats
 
 ![Luiz GIthub Stats](https://github-readme-stats.vercel.app/api?username=Lord1nho&_show_icons=true&theme=dracula)
-

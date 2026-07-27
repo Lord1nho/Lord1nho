@@ -44,7 +44,7 @@ Busco desenvolver soluções escaláveis, explorando tecnologias de Inteligênci
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
 <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge"/>
 
-## Areas de Interesse
+## Áreas de Interesse
 
 <ul>
     <li>Front-end</li>
@@ -56,7 +56,7 @@ Busco desenvolver soluções escaláveis, explorando tecnologias de Inteligênci
 
 ## 🚀 Melhores projetos
 
-Alguns dos projetos que mais me orgulho de ter desenvolvido (alguns são privados, por isso sem link):
+Alguns dos projetos que mais me orgulho de ter desenvolvido:
 
 - **DojOSS** - Sistema de gestão para academias de artes marciais, com controle de alunos, mensalidades e frequência.
 - **Glicemilton** - Aplicação gamificada para controle e autogestão de diabetes.
